@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<ConsultarNfseResposta xmlns:xsd='http://www.w3.org/2001/XMLSchema' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns='http://www.abrasf.org.br/ABRASF/arquivos/nfse.xsd'>
+<ListaNfse>
+<CompNfse>
+<Nfse>
+<InfNfse>
+<Numero>67</Numero>
+<CodigoVerificacao>LBWLBUN8</CodigoVerificacao>
+<DataEmissao>2025-03-07T14:20:54-03:00</DataEmissao>
+<IdentificacaoRps>
+<Numero></Numero>
+<Serie></Serie>
+<Tipo>3</Tipo>
+</IdentificacaoRps>
+<NaturezaOperacao>1</NaturezaOperacao>
+<OptanteSimplesNacional>2</OptanteSimplesNacional>
+<Competencia>2025-03-01T00:00:00-03:00</Competencia>
+<NfseSubstituida>0</NfseSubstituida>
+<OutrasInformacoes></OutrasInformacoes>
+<Servico>
+<Valores>
+<ValorServicos>138629,89</ValorServicos>
+<ValorDeducoes>0</ValorDeducoes>
+<ValorPis>901,09</ValorPis>
+<ValorCofins>4158,90</ValorCofins>
+<ValorInss>0</ValorInss>
+<ValorIr>2079,45</ValorIr>
+<ValorCsll>1386,30</ValorCsll>
+<IssRetido>2</IssRetido>
+<ValorIss>4158,90</ValorIss>
+<OutrasRetencoes>0</OutrasRetencoes>
+<BaseCalculo>138629,89</BaseCalculo>
+<Aliquota>0,03</Aliquota>
+<ValorLiquidoNfse>130104,15</ValorLiquidoNfse>
+<DescontoIncondicionado>0</DescontoIncondicionado>
+<DescontoCondicionado>0</DescontoCondicionado>
+</Valores>
+<ItemListaServico>403</ItemListaServico>
+<CodigoCnae></CodigoCnae>
+<CodigoTributacaoMunicipio>403001</CodigoTributacaoMunicipio>
+<Discriminacao>SERVIÇOS MEDICOS PRESTADOS REFERENTE A COMPETENCIA 01/2025</Discriminacao>
+</Servico>
+<PrestadorServico>
+<IdentificacaoPrestador>
+<Cnpj>03.870.617/0002-37</Cnpj>
+<InscricaoMunicipal>17515300212</InscricaoMunicipal>
+</IdentificacaoPrestador>
+<RazaoSocial>GASTROIMAGEM SERVICOS DE GASTROENTEROLOGIA HEPATOLOGIA ENDOSCOPIA DIGESTIVA LTDA</RazaoSocial>
+<Endereco>
+<Endereco>Rua Padre Feijó</Endereco>
+<Numero>159</Numero>
+<Complemento>TERREO                    SALA</Complemento>
+<Bairro>CANELA</Bairro>
+<CodigoMunicipio>2927408</CodigoMunicipio>
+<Uf>BA</Uf>
+<Cep>04011170</Cep>
+</Endereco>
+<Contato>
+<Telefone>71 3024-7900</Telefone>
+<Email></Email>
+</Contato>
+</PrestadorServico>
+<TomadorServico>
+<IdentificacaoTomador>
+<CpfCnpj>
+<Cnpj>63.554.067/0001-98</Cnpj>
+</CpfCnpj>
+<InscricaoMunicipal></InscricaoMunicipal>
+</IdentificacaoTomador>
+<RazaoSocial>HAPVIDA ASSISTENCIA MEDICA S.A.</RazaoSocial>
+<Endereco>
+<Endereco>AVE HERACLITO GRACA</Endereco>
+<Numero>406</Numero>
+<Complemento>2 ANDAR</Complemento>
+<Bairro>CENTRO</Bairro>
+<CodigoMunicipio>2304400</CodigoMunicipio>
+<Uf>CE</Uf>
+<Cep>60140061</Cep>
+</Endereco>
+<Contato>
+<Telefone></Telefone>
+<Email>FISCAL@HAPVIDA.COM.BR</Email>
+</Contato>
+</TomadorServico>
+<OrgaoGerador>
+<CodigoMunicipio>2927408</CodigoMunicipio>
+<Uf>BA</Uf>
+</OrgaoGerador>
+<ContrucaoCivil>
+<CodigoObra></CodigoObra>
+<Art></Art>
+</ContrucaoCivil>
+</InfNfse>
+</Nfse>
+</CompNfse>
+</ListaNfse>
+</ConsultarNfseResposta>
