@@ -12,7 +12,7 @@ namespace xmlManipulator
     {
         public static DataTable GetNotas()
         {
-            var arquivo = @"A:\Projetos 2025\tabela.xlsx";
+            var arquivo = @"A:\Projetos 2025\xmlManipulator\tabela.xlsx";
             var panilha = "SELECT * FROM [tabela$]";
 
 
